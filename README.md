@@ -1,6 +1,6 @@
 # Agueda Schwartz
 
-**Product Operations · Evaluation · AI-Native Delivery** · Queens, NY · English & Spanish
+**Product Manager · AI & Learning · Discovery · Evaluation** · Queens, NY · English & Spanish
 
 I build the checks, not just the thing. Most of what is here is a working artifact with its own way of failing: a graded eval harness, a deterministic gate, a method written down clearly enough that someone else could run it.
 
