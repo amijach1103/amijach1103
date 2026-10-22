@@ -12,7 +12,7 @@ I scoped it on a staff survey, piloted the workflow with five colleagues on thei
 **Designing an AI coach** · 2025–2026 · [design record →](https://github.com/amijach1103/ai-coach-design)
 Reviews of an AI prototype kept turning into arguments about preference. I mapped the experience the AI would sit inside, classified every touchpoint as human-essential or an AI opportunity, and wrote the behavior specification the team judged the prototype against.
 
-**An AI product for entrepreneurs** · 2025–2026 · [working documents →](https://github.com/amijach1103/weekly-experiment-loop)
+**An AI product for entrepreneurs** · 2025–2026 · [working documents →](https://github.com/amijach1103/weekly-experiment-loop) · [how I ran it →](https://github.com/amijach1103/pm-operating-system)
 I took over an early-stage product partway through, made user research the first priority, and tested positioning with a landing-page test whose thresholds were written before it ran. Volume missed while quality held, so I recommended a pivot to community-first and ran a twelve-week pilot with founders.
 
 **Nursing curriculum diagnosis** · 2021–2022
