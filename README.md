@@ -2,7 +2,7 @@
 
 **Learning design · AI enablement · Product** · Queens, NY · English & Spanish
 
-I help organizations decide where AI is worth the investment, get people using it well, and measure whether it actually worked. I come from educational psychology and learning design. Over sixteen years I've led discovery for new products, launched a platform to 2,000 teachers, designed and run learning for professionals, and evaluated what actually changed. Now I do that work with AI.
+I design learning programs and the products that deliver them, and I make sure they actually work. I come from educational psychology and learning design, and I've done this work in schools, professional firms and AI products. Now I do it with AI.
 
 ### Selected work
 
@@ -15,6 +15,9 @@ Reviews of an AI prototype kept turning into arguments about preference. I mappe
 **An AI product for entrepreneurs** · 2025–2026 · [working documents →](https://github.com/amijach1103/weekly-experiment-loop) · [how I ran it →](https://github.com/amijach1103/pm-operating-system)
 I took over an early-stage product partway through, made user research the first priority, and tested positioning with a landing-page test whose thresholds were written before it ran. Volume missed while quality held, so I recommended a pivot to community-first and ran a twelve-week pilot with founders.
 
+**AI courses and workshops for a university** · 2025
+I ran project management for a line of AI courses and workshops on prompt engineering and AI at work. The first four ran in May 2025, and 19 of 20 participants rated the prompt engineering session 4 or 5 out of 5.
+
 **Nursing curriculum diagnosis** · 2021–2022
 For a university nursing school, I tagged around 500 learning objectives against national competency standards, then designed and ran a six-part virtual workshop series with faculty and leadership over seven months. The checklists went to all faculty.
 
@@ -26,6 +29,9 @@ Leadership wanted dashboards; research in schools showed the data behind them wa
 
 **Evaluating learning platforms, Innova Schools** · 2016–2017
 I designed the controlled experiments leadership used to decide which platforms to scale, measuring learning with standardized testing alongside adoption, because usage is not comprehension.
+
+**A train-of-trainers for a school network, Innova Schools** · 2016–2017
+I co-designed and co-delivered a train-of-trainers so twenty schools could run their own design-thinking week. Each school sent one ambassador, and the schools ran it themselves two years running.
 
 ### Tools for workshops
 
