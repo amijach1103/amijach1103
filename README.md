@@ -18,6 +18,9 @@ I took over an early-stage product partway through, made user research the first
 **AI courses and workshops for a university** · 2025
 I ran project management for a line of AI courses and workshops on prompt engineering and AI at work. The first four ran in May 2025, and 19 of 20 participants rated the prompt engineering session 4 or 5 out of 5.
 
+**Choosing an innovation platform for a university** · 2023 · [case study →](https://github.com/amijach1103/innovation-platform-selection)
+With another product manager, I led the evaluation for a university's innovation program: 19 platforms, three rounds, one recommendation. The vendor I recommended was the only outside vendor to meet all nine criteria in the demo round, and it was bought.
+
 **Nursing curriculum diagnosis** · 2021–2022
 For a university nursing school, I tagged around 500 learning objectives against national competency standards, then designed and ran a six-part virtual workshop series with faculty and leadership over seven months. The checklists went to all faculty.
 
