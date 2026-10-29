@@ -21,7 +21,7 @@ I ran project management for a line of AI courses and workshops on prompt engine
 **Choosing an innovation platform for a university** · 2023 · [case study →](https://github.com/amijach1103/innovation-platform-selection)
 With another product manager, I led the evaluation for a university's innovation program: 19 platforms, three rounds, one recommendation. The vendor I recommended was the only outside vendor to meet all nine criteria in the demo round, and it was bought.
 
-**Nursing curriculum diagnosis** · 2021–2022
+**Nursing curriculum diagnosis** · 2021–2022 · [case study →](https://github.com/amijach1103/nursing-program-diagnosis)
 For a university nursing school, I tagged around 500 learning objectives against national competency standards, then designed and ran a six-part virtual workshop series with faculty and leadership over seven months. The checklists went to all faculty.
 
 **Live professional training at an accounting firm** · 2020–2021
@@ -35,6 +35,10 @@ I designed the controlled experiments leadership used to decide which platforms 
 
 **A train-of-trainers for a school network, Innova Schools** · 2016–2017
 I co-designed and co-delivered a train-of-trainers so twenty schools could run their own design-thinking week. Each school sent one ambassador, and the schools ran it themselves two years running.
+
+### How I work
+
+**[how-i-work](https://github.com/amijach1103/how-i-work)**: working documents grouped by the work they show: user research, market analysis, learning design, experiment design and program operations. Guides, plans, briefs, a deck and a template, none of them claiming a result.
 
 ### Tools for workshops
 
