@@ -27,13 +27,13 @@ For a university nursing school, I tagged around 500 learning objectives against
 **Live professional training at an accounting firm** · 2020–2021
 I ran the operations of the firm's live and virtual training, about 20 learners a class and at least three classes a week, so the subject-matter experts could focus on teaching. I coached them on explaining complex topics and tracked their license-renewal credits; no one missed a renewal.
 
-**Launching an assessment platform, Innova Schools** · 2017–2018
+**Launching an assessment platform for a K-12 school network** · 2017–2018
 Leadership wanted dashboards; research in schools showed the data behind them was entered late and wrong. I made accurate data the first milestone, piloted a mobile tool in five schools, and launched to all 20+ schools and 2,000 teachers a month later, with the pilot IT supervisors as champions. Input errors fell 30% after the first iteration.
 
-**Evaluating learning platforms, Innova Schools** · 2016–2017
+**Evaluating learning platforms for a K-12 school network** · 2016–2017
 I designed the controlled experiments leadership used to decide which platforms to scale, measuring learning with standardized testing alongside adoption, because usage is not comprehension.
 
-**A train-of-trainers for a school network, Innova Schools** · 2016–2017
+**A train-of-trainers for a school network** · 2016–2017
 I co-designed and co-delivered a train-of-trainers so twenty schools could run their own design-thinking week. Each school sent one ambassador, and the schools ran it themselves two years running.
 
 ### How I work
