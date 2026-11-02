@@ -27,8 +27,8 @@ For a university nursing school, I tagged around 500 learning objectives against
 **Live professional training at an accounting firm** · 2020–2021
 I ran the operations of the firm's live and virtual training, about 20 learners a class and at least three classes a week, so the subject-matter experts could focus on teaching. I coached them on explaining complex topics and tracked their license-renewal credits; no one missed a renewal.
 
-**Launching an assessment platform for a K-12 school network** · 2017–2018
-Leadership wanted dashboards; research in schools showed the data behind them was entered late and wrong. I made accurate data the first milestone, piloted a mobile tool in five schools, and launched to all 20+ schools and 2,000 teachers a month later, with the pilot IT supervisors as champions. Input errors fell 30% after the first iteration.
+**Launching an assessment platform for a K-12 school network** · 2017–2018 · [case study →](https://github.com/amijach1103/assessment-platform-launch)
+I took over a launch already planned: I ran the pilot in five schools and launched to all 20+ schools and 2,000 teachers, with the pilot IT supervisors as champions. After launch, we learned the tool didn't handle weak connections and research in schools showed uploads were late and rushed, so I made accurate data the next milestone and we redesigned the tool for weak connections and offline use. By the end of the first semester of 2018, input errors fell 30% against the same semester the year before.
 
 **Evaluating learning platforms for a K-12 school network** · 2016–2017
 I designed the controlled experiments leadership used to decide which platforms to scale, measuring learning with standardized testing alongside adoption, because usage is not comprehension.
