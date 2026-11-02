@@ -4,6 +4,8 @@
 
 I design learning programs and the products that deliver them, and I make sure they actually work. I come from educational psychology and learning design, and I've done this work in schools, professional firms and AI products. Now I do it with AI.
 
+**Start here by role:** Product → [assessment-platform-launch](https://github.com/amijach1103/assessment-platform-launch), [weekly-experiment-loop](https://github.com/amijach1103/weekly-experiment-loop) · Learning design → [learning-work-samples](https://github.com/amijach1103/learning-work-samples), [nursing-program-diagnosis](https://github.com/amijach1103/nursing-program-diagnosis), [how-i-work](https://github.com/amijach1103/how-i-work) · AI enablement → [pm-operating-system](https://github.com/amijach1103/pm-operating-system), [learning-work-samples](https://github.com/amijach1103/learning-work-samples) · Program operations → [innovation-platform-selection](https://github.com/amijach1103/innovation-platform-selection), [how-i-work](https://github.com/amijach1103/how-i-work)
+
 ### Selected work
 
 **AI upskilling for a research lab** · 2026 · [work samples →](https://github.com/amijach1103/learning-work-samples)
@@ -21,7 +23,7 @@ I ran project management for a line of AI courses and workshops on prompt engine
 **Choosing an innovation platform for a university** · 2023 · [case study →](https://github.com/amijach1103/innovation-platform-selection)
 With another product manager, I led the evaluation for a university's innovation program: 19 platforms, three rounds, one recommendation. The vendor I recommended was the only outside vendor to meet all nine criteria in the demo round, and it was bought.
 
-**Nursing curriculum diagnosis** · 2021–2022 · [case study →](https://github.com/amijach1103/nursing-program-diagnosis)
+**Nursing curriculum diagnosis** · [case study →](https://github.com/amijach1103/nursing-program-diagnosis)
 For a university nursing school, I tagged around 500 learning objectives against national competency standards, then designed and ran a six-part virtual workshop series with faculty and leadership over seven months. The checklists went to all faculty.
 
 **Live professional training at an accounting firm** · 2020–2021
